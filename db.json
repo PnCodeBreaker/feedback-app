@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 from mock json server"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3 from mock json server"
+    },
+    {
+      "text": "This is a new item with rating 8",
+      "rating": 8,
+      "id": 4
+    }
+  ]
+}
